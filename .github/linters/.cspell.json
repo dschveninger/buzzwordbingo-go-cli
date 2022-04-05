@@ -3,10 +3,12 @@
   "language": "en",
   "words": [
     "buzzwordbingo",
+    "pandoc",
     "dougschveninger",
     "dschveninger",
     "dschvenigergithub",
-    "Schveninger"
+    "Schveninger",
+    "substr"
   ],
   "flagWords": ["hte"]
 }
