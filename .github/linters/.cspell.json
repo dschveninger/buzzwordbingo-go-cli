@@ -9,7 +9,22 @@
     "dschveninger",
     "dschvenigergithub",
     "Schveninger",
+    "SARIF",
+    "codeql",
+    "compat",
+    "dylib",
+    "markdownlint",
+    "sarif",
+    "stefanzweifel",
+    "yfile",
+    "SARIF",
+    "codeql",
+    "compat",
+    "dylib",
+    "markdownlint",
+    "sarif",
+    "stefanzweifel",
+    "yfile",
     "substr"
-  ],
-  "flagWords": ["hte"]
+  ]
 }
